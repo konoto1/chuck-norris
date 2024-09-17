@@ -13,7 +13,7 @@ _HTML project_
 
 This project is for educational purposes only.
 
-Site published at: --
+Site published at: [Here] (https://konoto1.github.io/chuck-norris/)
 
 Design: --
 
